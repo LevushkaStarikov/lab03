@@ -1,0 +1,4 @@
+/Users/levstarikov/Documents/TIMP/laborator/lab03/formatter_lib/build/CMakeFiles/formatterlib.dir
+/Users/levstarikov/Documents/TIMP/laborator/lab03/formatter_lib/build/CMakeFiles/formatter.dir
+/Users/levstarikov/Documents/TIMP/laborator/lab03/formatter_lib/build/CMakeFiles/edit_cache.dir
+/Users/levstarikov/Documents/TIMP/laborator/lab03/formatter_lib/build/CMakeFiles/rebuild_cache.dir
