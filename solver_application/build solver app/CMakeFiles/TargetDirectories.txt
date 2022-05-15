@@ -1,0 +1,3 @@
+/Users/levstarikov/Documents/TIMP/laborator/lab03/solver_application/build solver app/CMakeFiles/solver_app.dir
+/Users/levstarikov/Documents/TIMP/laborator/lab03/solver_application/build solver app/CMakeFiles/edit_cache.dir
+/Users/levstarikov/Documents/TIMP/laborator/lab03/solver_application/build solver app/CMakeFiles/rebuild_cache.dir
